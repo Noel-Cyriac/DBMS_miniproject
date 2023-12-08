@@ -1,7 +1,7 @@
 # DBMS_miniproject
 + Mini-project on Crime mapping and analysis.   
 + Made using Streamlit and mySQL database.     
-+ Install streamlit and its necessary libraries.
++ Install Streamlit and its necessary Libraries.
 + Create mySQL database with four tables:      
   admin(id,username,password)      
                                        user(id,username,password)      
