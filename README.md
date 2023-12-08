@@ -7,4 +7,5 @@
                                        user(id, username, password)      
                                        new_crime_data(id, location_name, district, crime_date, crime_type, time_of_crime, latitude, longitude)    
                                        temporary(id, location_name, district, crime_date, crime_type, time_of_crime, latitude, longitude)      
++ Change Database connection parameters in the code like database name, password according to your system.   
 + To run: streamlit run main.py                                            
